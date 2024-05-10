@@ -1,0 +1,1 @@
+unicycler -1 input_read_1.fastq.gz -2 input_read_2.fastq.gz -o output_dir --min_fasta_length 1000 -t 8
